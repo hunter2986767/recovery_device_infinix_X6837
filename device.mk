@@ -59,4 +59,4 @@ PRODUCT_PACKAGES += \
 
 # Copy patched touch screen driver module
 PRODUCT_COPY_FILES += \
-   $(LOCAL_PATH)/touch/transsion_touch_patched.ko:recovery/root/lib/modules/transsion_touch.ko
+   $(LOCAL_PATH)/touch/tran_touch_patched.ko:recovery/root/lib/modules/tran_touch.ko
