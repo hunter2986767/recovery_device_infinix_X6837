@@ -1,4 +1,4 @@
-# Android device tree for Infinix Note 30 (X6833B)
+# Android device tree for Infinix HOT 40 Pro (X6837)
 
 Blocking checks
 - [x] Correct screen/recovery size
