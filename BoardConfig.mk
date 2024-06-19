@@ -130,6 +130,7 @@ TW_CUSTOM_CLOCK_POS := 40
 TW_CUSTOM_CPU_POS := 290
 TW_CUSTOM_CPU_TEMP_PATH := /sys/class/thermal/thermal_zone28/temp
 TW_DEFAULT_BRIGHTNESS := 2047
+TW_MAX_BRIGHTNESS := 4097
 TW_DEVICE_VERSION := ${shell git -C $(DEVICE_PATH) rev-parse --short HEAD}-Shivelight
 TW_EXCLUDE_APEX := true
 TW_EXTRA_LANGUAGES := true
