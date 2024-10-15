@@ -1,4 +1,4 @@
-name: Build pitchblack recovery
+name: skyhawk recovey builder
 
 on:
   workflow_dispatch:
