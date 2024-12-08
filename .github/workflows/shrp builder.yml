@@ -46,7 +46,7 @@ jobs:
         echo "workspace-folder=$(pwd)" >> $GITHUB_OUTPUT
         git config --global user.name "paul"
         git config --global user.email "eriojhonpaul517@gmail.com"
-        repo init --depth=1 -u repo init -u https://github.com/SHRP/manifest.git -b shrp-12.1
+        repo init --depth=1 -u repo init -u https://github.com/SHRP/manifest/tree/shrp-12.1 -b shrp-12.1
       id: pwd
           
     - name: Repo Sync
